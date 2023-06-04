@@ -1,0 +1,28 @@
+{
+  "Academia": {
+    "Nombre": "Next Lang",
+    "Calle": "123",
+    "Ciudad": "Villa Carlos Paz",
+    "Cursos": [
+      {
+        "nombre": "Inglés A1-A2",
+        "Duración en semanas": 4,
+        "Precio": 100
+      },
+      {
+        "nombre": "Inglés C1-C2",
+        "Duración en semanas": 20,
+        "Precio": 400
+      },
+      {
+        "nombre": "Italiano A1-A2",
+        "Duración en semanas": 5,
+        "Precio": 120
+      }
+    ],
+    "Contacto": {
+      "Teléfono 1": "156734756",
+      "Teléfono 2": "154456234"
+    }
+  }
+}
