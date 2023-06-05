@@ -1,0 +1,37 @@
+{
+  "trivia de preguntas realizada por una Venezolana": [
+    {
+      "Pregunta 1": "¿Cuál es la capital de Venezuela?",
+      "opciones": [
+        "Caracas",
+        "Merida",
+        "Bolivar",
+        "Cojedes"
+      ],
+      "respuestaCorrecta": "Caracas",
+      "explicacion": "Caracas es la capital de Venezuela desde el año 1577"
+    },
+    {
+      "Pregunta 2": "¿Qué estado de Venezuela tiene la famosa catara de bachaco?",
+      "opciones": [
+        "Miranda",
+        "Amazonas",
+        "Tachira",
+        "Cojedes"
+      ],
+      "respuestaCorrecta": "Amazonas",
+      "explicacion": "En Amazonas existe un picante tipico a base de bachaco y yare, rico comerlo con pescado"
+    },
+    {
+      "Pregunta 3": "¿De donde es la arepa?",
+      "opciones": [
+        "Venezuela",
+        "España",
+        "Colombia",
+        "Disputa entre Venezuela y Colombia"
+      ],
+      "respuestaCorrecta": "Venezuela",
+      "explicacion": "La arepa es de Venezuela y punto"
+    }
+  ]
+}
