@@ -1,8 +1,44 @@
 {
   "category": "Cultura",
-  "question": "¿Qué ingredintes se necesitan para hacer un ajicero Amazonece?",
+  "question": "¿Qué ingredintes se necesitan para hacer un ajicero Amazonence?",
   "options": ["Pescado, sal, arroz, agua", "Pollo, agua, sal, picante", "Pescado, aji dulce y picante, aliños, yuca"],
   "answer": 2,
   "explanation": "El ajicero es un plato tradicional del Estado Amazonas Venezuela, una sopa de pescado clara y picosa"
-}
+},
+{
+  "category": "Deportes",
+  "question": "¿Qué deporte es muy practicado en Amazonas Venezuela?",
+  "options": ["Carreras", "Pesca", "Futbol"],
+  "answer": 1,
+  "explanation": "La pesca es considerado un deporte y sustento del dia a dia en los padres de familia Amazonence"
+},
+{
+  "category": "Arte",
+  "question": "¿Que se considera Arte en Amazonas Venezuela?",
+  "options": ["Pintura en el rostro indígena", "Piedras pintadas", "Un juego de caza"],
+  "answer": 0,
+  "explanation": "Todo es Arte en nuestra poblacion enriquecedora, pero es arte y tradicion en indigenas pintarse el rostro"
+},
+{
+  "category": "Cine",
+  "question": "¿Sabes que UP se inspiro en el salto Angel, donde queda?",
+  "options": ["Rusia", "Brasil", "Venezuela"],
+  "answer": 2,
+  "explanation": " Cataratas del paraíso, el realizador Pete Docter y su equipo se inspiraron en la gigante catarata denominada Salto del Ángel o Kerepakupai Vená en pemón. "
+},
+{
+  "category": "Historia",
+  "question": "¿Cuando se Fundo Amazonas?",
+  "options": ["1864", "2000", "1997"],
+  "answer": 0,
+  "explanation": " El territorio del estado Amazonas pertenecía a la Provincia de Guayana desde tiempos de la colonia. En 1864 se crea el Territorio Federal Amazonas, con capital San Fernando de Atabapo "
+},
+{
+  "category": "Ciencia",
+  "question": "¿Que abunda en investigacion cientifica en Amazonas?",
+  "options": ["La fiebre Amarilla", "El aborto", "Las enfermedades tropicales"],
+  "answer": 2,
+  "explanation": " la enfermedades tropicales muy vistas son la enfermedad de Chagas, Lehishmaniasis, Malaria, culebrilla u otros Que van de la mano en investigacion por SACAICET "
+},
+
 
