@@ -1,35 +1,7 @@
-[  
-    {    "category": "Comida",    "question": "¿Qué ingredientes se necesitan para hacer un ajicero?",   
-    "options": ["Pescados, sal, aji dulce y picantes, yuca, cebolla", "Pollo,sal, yuca y cebolla", "Maíz, sal, carne y picantes"],
-    "answer": 0,
-    "explanation": "El ajicero del amazonas es un caldo tradicional de la selva Amazonica Venezolano, tradicion indígena."
-  },
-  {
-    "category": "Ríos",
-    "question": "¿Que Balneario es mas conocido en Amazonas-Venezuela?",
-    "options": ["Pozo Cristal", "Morrocoy", "Tobogan de la Selva"],
-    "answer": 0,
-    "explanation": "El tobogán de la Selva es uno de los mejores atractivos turísticos del Estado Amazonas-Venezuela."
-  },
-  {
-    "category": "Cultura",
-    "question": "¿Qué se hace mas conocido en la tradicion de Amazonas?",
-    "options": ["etnia que los identifique", "Canto", "Toros coleados"],
-    "answer": 0,
-    "explanation": "La mayoria de la poblacion hablan lenguas indigenas como por ejemplo los arawacos. * Viven rodeando el Rio Orinoco. * Se caracterizan por su tradicion de hacer muchas artesanias como tejidos"
-  },
-  {
-    "category": "Historia",
-    "question": "¿Qué historia crees que los indigenas crean?",
-    "options": ["Cuentos chinos", "Adivinanza", "Mitos y Leyendas de la creacion de la Tierra"],
-    "answer": 0,
-    "explanation": "Cada Etnia indigena tiene su historia de como se creo el mundo para ellos, como se creó el cielo, la luna, el sol, etc"
-  },
-  {
-    "category": "Ubicación",
-    "question": "¿Donde esta situado Puerto Ayacuho",
-    "options": ["China", "Caracas", "Amazonas"],
-    "answer": 0,
-    "explanation": "Puerto Ayacucho es la capital del estado Amazonas en Venezuela, se encuentra ubicada al sur del país, cerca de la frontera con Colombia y Brasil."
-  }
-]
+{
+  "category": "Cultura",
+  "question": "¿Qué ingredintes se necesitan para hacer un ajicero Amazonece?",
+  "options": ["Pescado, sal, arroz, agua", "Pollo, agua, sal, picante", "Pescado, aji dulce y picante, aliños, yuca"],
+  "answer": 0,
+  "explanation": "El ajicero es un plato tradicional del Estado Amazonas Venezuela, una sopa de pescado clara y picosa"
+}
