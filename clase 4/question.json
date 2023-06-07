@@ -1,35 +1,44 @@
 {
-  "category": "Comida",
-  "question": "¿Qué ingredientes se necesitan para hacer un ajicero?",
-  "options": ["Pescados, sal, aji dulce y picantes, yuca, cebolla", "Pollo,sal, yuca y cebolla", "Maíz, sal, carne y picantes"],
-  "answer": 0,
-  "explanation": "El ajicero del amazonas es un caldo tradicional de la selva Amazonica Venezolano, tradicion indígena."
-}
-{
-  "category": "Ríos",
-  "question": "¿Que Balneario es mas conocido en Amazonas-Venezuela?",
-  "options": ["Pozo Cristal", "Morrocoy", "Tobogan de la Selva"],
-  "answer": 0,
-  "explanation": "El tobogán de la Selva es uno de los mejores atractivos turísticos del Estado Amazonas-Venezuela."
-}
-{
   "category": "Cultura",
-  "question": "¿Qué se hace mas conocido en la tradicion de Amazonas?",
-  "options": ["etnia que los identifique", "Canto", "Toros coleados"],
+  "question": "¿Qué ingredintes se necesitan para hacer un ajicero Amazonence?",
+  "options": ["Pescado, sal, arroz, agua", "Pollo, agua, sal, picante", "Pescado, aji dulce y picante, aliños, yuca"],
+  "answer": 2,
+  "explanation": "El ajicero es un plato tradicional del Estado Amazonas Venezuela, una sopa de pescado clara y picosa"
+},
+{
+  "category": "Deportes",
+  "question": "¿Qué deporte es muy practicado en Amazonas Venezuela?",
+  "options": ["Carreras", "Pesca", "Futbol"],
+  "answer": 1,
+  "explanation": "La pesca es considerado un deporte y sustento del dia a dia en los padres de familia Amazonence"
+},
+{
+  "category": "Arte",
+  "question": "¿Que se considera Arte en Amazonas Venezuela?",
+  "options": ["Pintura en el rostro indígena", "Piedras pintadas", "Un juego de caza"],
   "answer": 0,
-  "explanation": "La mayoria de la poblacion hablan lenguas indigenas como por ejemplo los arawacos. * Viven rodeando el Rio Orinoco. * Se caracterizan por su tradicion de hacer muchas artesanias como tejidos"
-}
+  "explanation": "Todo es Arte en nuestra poblacion enriquecedora, pero es arte y tradicion en indigenas pintarse el rostro"
+},
+{
+  "category": "Cine",
+  "question": "¿Sabes que UP se inspiro en el salto Angel, donde queda?",
+  "options": ["Rusia", "Brasil", "Venezuela"],
+  "answer": 2,
+  "explanation": " Cataratas del paraíso, el realizador Pete Docter y su equipo se inspiraron en la gigante catarata denominada Salto del Ángel o Kerepakupai Vená en pemón. "
+},
 {
   "category": "Historia",
-  "question": "¿Qué historia crees que los indigenas crean?",
-  "options": ["Cuentos chinos", "Adivinanza", "Mitos y Leyendas de la creacion de la Tierra"],
+  "question": "¿Cuando se Fundo Amazonas?",
+  "options": ["1864", "2000", "1997"],
   "answer": 0,
-  "explanation": "Cada Etnia indigena tiene su historia de como se creo el mundo para ellos, como se creó el cielo, la luna, el sol, etc"
-}
+  "explanation": " El territorio del estado Amazonas pertenecía a la Provincia de Guayana desde tiempos de la colonia. En 1864 se crea el Territorio Federal Amazonas, con capital San Fernando de Atabapo "
+},
 {
-  "category": "Ubicación",
-  "question": "¿Donde esta situado Puerto Ayacuho",
-  "options": ["China", "Caracas", "Amazonas"],
-  "answer": 0,
-  "explanation": "Puerto Ayacucho es la capital del estado Amazonas en Venezuela, se encuentra ubicada al sur del país, cerca de la frontera con Colombia y Brasil."
-}
+  "category": "Ciencia",
+  "question": "¿Que abunda en investigacion cientifica en Amazonas?",
+  "options": ["La fiebre Amarilla", "El aborto", "Las enfermedades tropicales"],
+  "answer": 2,
+  "explanation": " la enfermedades tropicales muy vistas son la enfermedad de Chagas, Lehishmaniasis, Malaria, culebrilla u otros Que van de la mano en investigacion por SACAICET "
+},
+
+
