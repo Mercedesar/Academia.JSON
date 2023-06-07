@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Comida",
+    "description": "Preguntas relacionadas con comidas, sazón,ingredientes y otras expresiones."
+  },
+  {
+    "category": "Rios",
+    "description": "Preguntas relacionadas con diversos Ríos y Balneario."
+  },
+  {
+    "category": "Cultura",
+    "description": "Preguntas relacionadas con costumbres, dialectos y otras formas de expresión cultural."
+  },
+  {
+    "category": "Clima",
+    "description": "Preguntas relacionadas con el ambiente que determina el ambiente del Estado."
+  },
+  {
+    "category": "Historia",
+    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+  },
+  {
+    "category": "Ubicación",
+    "description": "Preguntas relacionadas con la ubicacion geografica de Amazonas."
+  }
+]
