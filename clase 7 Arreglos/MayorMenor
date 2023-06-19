@@ -1,1 +1,34 @@
 //Después de realizar el ejercicio anterior, agregar que muestre el número mayor y el número menor.
+
+import java.util.Scanner;
+public class MayorMenor{
+    public static void main(String[] args) {
+        // Encontrar el número mayor
+
+        int[] numeros = new int[5];
+        Scanner teclado = new Scanner(System.in);
+        int contador = 0;
+        int mayor = Integer.MIN_VALUE;
+        int menor = Integer.MAX_VALUE;
+
+        while (contador < 5) {
+            System.out.println("Ingrese un numero:");
+            numeros[contador] = teclado.nextInt();
+            contador++;
+        }
+
+        for (int i = 0; i < numeros.length; i++) {
+            if (numeros[i] > mayor) {
+                mayor = numeros[i];
+            }
+            if (numeros[i] < menor) {
+                menor = numeros[i];
+            }
+        }
+
+        System.out.println("El número mayor es: " + mayor);
+        System.out.println("El número menor es: " + menor);
+
+    }
+}
+
